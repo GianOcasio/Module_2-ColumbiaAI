@@ -129,7 +129,7 @@ while place_order:
                 # 4. Check if the menu selection is in the menu items
 
                     # Store the item name as a variable
-
+                     #fun
 
                     # Ask the customer for the quantity of the menu item
 
